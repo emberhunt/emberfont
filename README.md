@@ -1,4 +1,4 @@
 # Emberfont
 The font of Emberhunt game
 
-![Emberhunt written in Emberfont](https://i.imgur.com/EksJuvz.png)
+![Lorem Ipsum in Emberfont](https://i.imgur.com/Sx8KU4Z.png)
